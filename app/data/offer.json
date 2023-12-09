@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "End-to-End Website Solutions",
+    "description": "From conceptualization to launch, experience a comprehensive suite of solutions tailored to your business. Our offerings cover design, development, and optimization for a robust online presence."
+  },
+  {
+    "id": 2,
+    "title": "SEO-Optimized Websites",
+    "description": "Elevate your online presence with SEO-centric designs. Our websites are tailored not just to look good, but to rank well and attract organic traffic, boosting your visibility in search engines."
+  },
+  {
+    "id": 3,
+    "title": "Functionality-Driven Designs",
+    "description": "Immerse users in seamless experiences. Our focus isn’t just on aesthetics; it’s on functionality, ensuring your site works flawlessly across devices and delivers an intuitive user journey."
+  },
+  {
+    "id": 4,
+    "title": "Conversion-Oriented Interfaces",
+    "description": "Create impactful user journeys that convert. Our designs are crafted to engage visitors and guide them toward action, transforming casual browsers into loyal customers."
+  }
+]
